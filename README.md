@@ -7,5 +7,4 @@ Eklenilen öğrencinin notuna göre geçti, kaldı veya bütünlemeye kaldığı
 ## Demo
 
 
-![Alt Text](https://im2.ezgif.com/tmp/ezgif-2-5518445c6a.gif)
-<img src="https://im2.ezgif.com/tmp/ezgif-2-5518445c6a.gif" width="200" height="500" />
+<img src="https://im2.ezgif.com/tmp/ezgif-2-5518445c6a.gif" width="300" height="600" />
